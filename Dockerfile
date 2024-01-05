@@ -1,4 +1,4 @@
-FROM node:18.16.1
+FROM curl@7.88.1-10+deb12u1
 
 RUN npm install -g npm@9.1.3
 
